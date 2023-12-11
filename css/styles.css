@@ -1,0 +1,33 @@
+body {
+    height: 100%;
+}
+.styleLink {
+    text-decoration: none;
+}
+.bleuClair {
+    background-color: #80adb796;
+}
+.titleSize{
+    font-size: 10px;
+}
+
+.positionBtn {
+    position:absolute;
+    bottom:1em;
+}
+.bodyHauteur {
+    height:600px
+}
+.sizeProgressBar {
+    height: 3em;
+}
+.progress{--bs-progress-bg: #ffffff;}
+
+.errors {
+    color: red !important;
+}
+.success {
+    color: green !important;
+}
+
+
